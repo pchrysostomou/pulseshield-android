@@ -3,7 +3,7 @@
 PulseShield is a privacy-first Android prototype for everyday COVID and respiratory illness decisions. It helps a person decide whether to go ahead, adjust, limit, or stay home before entering a crowded place, commuting, visiting family, or responding to new symptoms.
 
 The app is built with Kotlin, Jetpack Compose, and a local-only risk engine. It is not a contact-tracing app, does not use Bluetooth exposure notifications, and does not require an account.
-
+ 
 ## What It Does
 
 - Gives a clear decision: `Go`, `Adjust`, `Limit`, or `Stay home`.
