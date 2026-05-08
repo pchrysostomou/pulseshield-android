@@ -4,7 +4,7 @@ This is a practical engineering review, not legal advice. For a commercial launc
 
 ## Reviewed Risk
 
-The user specifically asked whether PulseShield copied anything from the England/Wales COVID app source code that is available on GitHub.
+This review checks whether PulseShield contains signs of copied code, branding, wording, package names, assets, or implementation patterns from the England/Wales COVID app source code that is publicly available on GitHub.
 
 ## Public Reference Checked
 
@@ -27,9 +27,9 @@ PulseShield currently uses:
 - No government branding.
 - No NHS/GOV.UK strings, package names, assets, or source files.
 
-## Source Search Performed
+## Local Source Search
 
-The local project was searched for obvious copy-risk indicators, including:
+The repository was searched for obvious copy-risk indicators, including:
 
 - `NHS`
 - `UK COVID`

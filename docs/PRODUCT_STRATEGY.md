@@ -15,7 +15,7 @@ The sharper promise: PulseShield helps you choose the safest version of the plan
 3. App combines local symptoms, exposure, check-ins, and area signals.
 4. User gets a plain decision: go, adjust, limit, or stay home.
 5. User can still inspect the score, reasons, and three next actions.
-6. Check-ins stay local unless the user chooses a privacy-preserving community notice.
+6. Check-ins stay local unless a privacy-preserving community notice is chosen.
 7. The app earns retention by being calm, fast, and useful without surveillance.
 
 ## Product wedge
@@ -40,7 +40,7 @@ The sharper promise: PulseShield helps you choose the safest version of the plan
 ## Success signals
 
 - Users can understand why a recommendation changed in under 10 seconds.
-- A safer alternative is visible before the user abandons a plan.
+- A safer alternative is visible before a plan is abandoned.
 - Check-ins and symptoms are useful without requiring an account.
 - High-risk states route people toward trusted guidance before optional venue features.
 

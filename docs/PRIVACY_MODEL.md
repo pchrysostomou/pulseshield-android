@@ -5,7 +5,7 @@ PulseShield should be designed as if every health signal is sensitive.
 ## Principles
 
 - Local first: symptoms, check-ins, and exposure logs stay on device by default.
-- Data minimization: collect only what directly changes user guidance.
+- Data minimization: collect only what directly changes guidance.
 - Explainability: risk rules must be readable and covered by tests.
 - User control: sharing is explicit, scoped, and reversible.
 - No identity requirement for basic protection.

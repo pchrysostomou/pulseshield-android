@@ -10,7 +10,7 @@ The app is built with Kotlin, Jetpack Compose, and a local-only risk engine. It 
 - Scores local risk from symptoms, exposure level, area pressure, protection choices, and plan type.
 - Supports illness focus modes: respiratory, COVID-like, flu/cold, and vulnerable visit.
 - Explains why the score changed with transparent risk factors.
-- Suggests safer alternatives before the user cancels a plan.
+- Suggests safer alternatives before a plan is cancelled.
 - Keeps place check-ins local by default.
 - Shows whether a private place timeline is calm or needs attention.
 - Provides trusted-guidance prompts without collecting identity data.
@@ -107,4 +107,4 @@ If your terminal uses Java 11 by default, set Android Studio's Gradle JDK to JDK
 
 ## Important Note
 
-PulseShield is not a medical device and does not diagnose illness. It is a decision-support prototype that can route users toward trusted official guidance and clinical care when needed.
+PulseShield is not a medical device and does not diagnose illness. It is a decision-support prototype that can route people toward trusted official guidance and clinical care when needed.
