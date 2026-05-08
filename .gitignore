@@ -1,0 +1,40 @@
+# Gradle / Android build output
+.gradle/
+build/
+app/build/
+captures/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Local machine config
+local.properties
+*.iml
+.idea/
+.vscode/
+.DS_Store
+
+# Kotlin / Android Studio generated state
+.kotlin/
+*.hprof
+
+# Signing and secrets
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+google-services.json
+
+# Logs and reports
+*.log
+lint-results*.html
+lint-results*.xml
+
+# Native / external build output
+.cxx/
+externalNativeBuild/
+
+# Test output
+test-results/
